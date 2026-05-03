@@ -4,7 +4,7 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.10.8
+  sdk: ^3.10.4
 
 dependencies:
   flutter:
@@ -12,6 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   get: ^4.6.6
   lottie: ^3.1.2
+  google_fonts: ^6.2.1
 
 dev_dependencies:
   flutter_test:
@@ -21,6 +22,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/img.png
+    - assets/logo.png
     - assets/bag_icon.png
-    - assets/lotties/animation.json
+    - assets/lotties/
