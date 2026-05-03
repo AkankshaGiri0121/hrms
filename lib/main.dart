@@ -6,6 +6,12 @@ import 'core/theme/theme_controller.dart';
 import 'core/utils/responsive.dart';
 import 'features/splash/view/splash_screen.dart';
 
+/**
+ Yash This side.
+ Commiting 1st -> 
+ on - main
+ done - 03 May 2026
+ */
 void main() {
   Get.put(ThemeController());
   runApp(const MyApp());
